@@ -2,7 +2,7 @@ package in.ineuron.test;
 
 import in.ineuron.comp.WishMessageGenerator;
 
-public class test {
+public class UsingCoreJavaApp {
 
 	public static void main(String[] args) {
 		WishMessageGenerator generator = new WishMessageGenerator();
